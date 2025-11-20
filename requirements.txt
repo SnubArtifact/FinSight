@@ -1,7 +1,8 @@
-openai
-pinecone-client
 pdfplumber
 langchain
+langchain-text-splitters
 tiktoken
 chromadb
 fastapi
+google-generativeai
+faiss-cpu
